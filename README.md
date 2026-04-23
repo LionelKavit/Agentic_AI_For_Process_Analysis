@@ -1,9 +1,6 @@
-# Agentic_AI_For_Process_Analysis
+# Multipurpose "Performance Analysis" Agentic AI System
 
-Transformed a steel parts firm’s process capability analysis by integrating an agentic
-AI decision-support system, reducing a 2.5-hour manual workflow to 20 minutes. I implemented
-responsible AI practices by standardizing analysis logic and governance frameworks using call
-tools (MCP) and RAG, respectively, while maintaining human-in-the-loop oversight.
+This project involved designing and implementing an AI decision-support system to improve how process stability and process capability decisions are made in a steel manufacturing context. The core problem addressed was the time, inconsistency, and misdirected effort involved in manually interpreting process data. The solution was built as a structured, end-to-end workflow that ingests raw process data, performs parallel analysis of process behavior and capability, and synthesizes results into a clear, leadership-ready narrative grounded in company standards.
 
 The implemented Azure AI solution integrates multiple Azure AI services:
 • A fully functional Prompt Flow hosted in an Azure AI Hub Project.
